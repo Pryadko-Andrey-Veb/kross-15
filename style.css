@@ -498,7 +498,7 @@ body {
   /* width: 868px; */
   width: 49.9%;
   min-height: 622px;
-  background-image: url(../About1.jpg);
+  background-image: url(About1.jpg);
   background-repeat: no-repeat;
 }
 
@@ -775,14 +775,14 @@ body {
 .haw-we-work__content2-img1 {
   width: 100%;
   height: 100%;
-  background-image: url(../how-we-work.jpg);
+  background-image: url(how-we-work.jpg);
   background-repeat: no-repeat;
 }
 
 .haw-we-work__content2-img2 {
   width: 100%;
   height: 100%;
-  background-image: url(../how-we-work-2.jpg);
+  background-image: url(how-we-work-2.jpg);
   background-repeat: no-repeat;
 }
 
@@ -796,7 +796,7 @@ body {
 .haw-we-work__content2-img4 {
   width: 100%;
   height: 100%;
-  background-image: url(../how-we-work-4.jpg);
+  background-image: url(how-we-work-4.jpg);
   background-repeat: no-repeat;
 }
 
@@ -1223,7 +1223,7 @@ body {
       padding-left: 22px;
       padding-right: 21px;
       padding-bottom: 15px;
-      background-image: url('../hero-320.jpg'); */
+      background-image: url('hero-320.jpg'); */
     }
     .hero__img {
       min-height: 100%;
@@ -1285,7 +1285,7 @@ body {
     .about__content1 {
       width: 100%;
       min-height: 390px;
-      background-image: url(../About1-320.jpg);
+      background-image: url(About1-320.jpg);
       background-repeat: no-repeat;
       margin-bottom: 39px;
     }
@@ -1489,7 +1489,7 @@ body {
     .haw-we-work__content2-img {
       width: 100%;
       height: 100%;
-      background-image: url(../how-we-work-320.jpg);
+      background-image: url(how-we-work-320.jpg);
       background-size: 100%;
       background-repeat: no-repeat;
     }
@@ -1710,7 +1710,7 @@ body {
     padding-left: 40px;
     padding-right: 40px;
     padding-bottom: 30px;
-    background-image: url('../hero-768.jpg'); */
+    background-image: url('hero-768.jpg'); */
   }
   .hero__img {
     min-height: 100%;
@@ -1770,7 +1770,7 @@ body {
   .about__content1 {
     width: 100%;
     height: 650px;
-    background-image: url(../About1-768.jpg);
+    background-image: url(About1-768.jpg);
     background-repeat: no-repeat;
     background-size: 92.4%;
     margin-bottom: 32px;
@@ -1934,7 +1934,7 @@ body {
   .haw-we-work__content2-img1 {
     width: 100%;
     height: 100%;
-    background-image: url(../how-we-work-768.jpg);
+    background-image: url(how-we-work-768.jpg);
     background-repeat: no-repeat;
     background-size: 92.4%;
   }
@@ -2091,7 +2091,7 @@ body {
       padding-left: 77px;
       padding-right: 77px;
       padding-bottom: 30px;
-      background-image: url('../hero-1024.jpg'); */
+      background-image: url('hero-1024.jpg'); */
     }
     .hero__content {
       min-width: 100%;
@@ -2146,7 +2146,7 @@ body {
     .about__content1 {
       width: 100%;
       height: 640px;
-      background-image: url(../About1-1024.jpg);
+      background-image: url(About1-1024.jpg);
       background-size: 100%;
       margin-bottom: 32px;
     }
@@ -2284,7 +2284,7 @@ body {
     .haw-we-work__content2-img {
       width: 100%;
       height: 100%;
-      background-image: url(../how-we-work-1024.jpg);
+      background-image: url(how-we-work-1024.jpg);
       background-size: 100%;
       background-repeat: no-repeat;
       background-size: 255%;
@@ -2538,7 +2538,7 @@ body {
       width: 100%;
       min-height: 380px;
       margin-bottom: 0px;
-      background-image: url(../how-we-work.jpg);
+      background-image: url(how-we-work.jpg);
       background-repeat: no-repeat;
     }
     .haw-we-work__content-btn1 {
@@ -2844,7 +2844,7 @@ body {
       width: 100%;
       min-height: 380px;
       margin-bottom: 0px;
-      background-image: url(../how-we-work.jpg);
+      background-image: url(how-we-work.jpg);
       background-repeat: no-repeat;
     }
     .haw-we-work__content-btn1 {
@@ -3221,7 +3221,7 @@ body {
       width: 100%;
       min-height: 380px;
       margin-bottom: 0px;
-      background-image: url(../how-we-work.jpg);
+      background-image: url(how-we-work.jpg);
       background-size: 100%;
       background-repeat: no-repeat;
     }
